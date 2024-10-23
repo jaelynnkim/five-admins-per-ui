@@ -32,10 +32,10 @@ except Exception as e:
 
 # Define a dictionary of Contact IDs with the corresponding passkeys
 CONTACT_PASSKEYS = {
-    "003Dn00000actDQIAY": {"name": "Cristy Houde", "passkey": None},
-    "003Dn00000actYkIAI": {"name": "Jana Darlington", "passkey": None},
-    "003Dn00000actJUIAY": {"name": "Kevin Kelley", "passkey": None},
-    "003Dn00000lN3HLIA0": {"name": "Molly Parmeter", "passkey": None},
+    "003ca000003iFIJAA2": {"name": "Lizette Bullock", "passkey": None},
+    "003ca000003iFIOAA2": {"name": "Melissa Schneider", "passkey": None},
+    "003U900000EOntsIAD": {"name": "Kevin Kelley", "passkey": None},
+    "003ca000003iJbpAAE": {"name": "Molly Parmeter", "passkey": None},
     "003ca000003iJh6AAE": {"name": "Jae Kim", "passkey": None}
 }
 
