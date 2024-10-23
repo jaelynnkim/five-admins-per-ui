@@ -34,7 +34,7 @@ except Exception as e:
 CONTACT_PASSKEYS = {
     "003ca000003iFIJAA2": {"name": "Lizette Bullock", "passkey": None},
     "003ca000003iFIOAA2": {"name": "Melissa Schneider", "passkey": None},
-    "003U900000EOntsIAD": {"name": "Kevin Kelley", "passkey": None},
+    "003ca000003iElNAAU": {"name": "Kevin Kelley", "passkey": None},
     "003ca000003iJbpAAE": {"name": "Molly Parmeter", "passkey": None},
     "003ca000003iJh6AAE": {"name": "Jae Kim", "passkey": None}
 }
